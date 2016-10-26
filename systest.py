@@ -4,4 +4,4 @@
 import sys
 
 print(sys.argv)
-print('Version:\t{}\nVers info:\t{}\nPlatform:\t{}\nWinver:\t'.format(sys.version, sys.version_info, sys.platform, sys.winver))
+print('Version:\t{}\nVers info:\t{}\nPlatform:\t{}\n'.format(sys.version, sys.version_info, sys.platform))
